@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sMAvKQbkmfI77ewC13dB2IyupmUFDhSfbxgeYndPqDw=",
+  "Source": "ApiDevBP.Api",
+  "BasePath": "_content/ApiDevBP.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

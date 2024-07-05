@@ -1,0 +1,13 @@
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\bin\Debug\net8.0\ApiDevBP.Contract.deps.json
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\bin\Debug\net8.0\ApiDevBP.Contract.dll
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\bin\Debug\net8.0\ApiDevBP.Contract.pdb
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\obj\Debug\net8.0\ApiDevBP.Contract.csproj.AssemblyReference.cache
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\obj\Debug\net8.0\ApiDevBP.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\obj\Debug\net8.0\ApiDevBP.Contract.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\obj\Debug\net8.0\ApiDevBP.Contract.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\obj\Debug\net8.0\ApiDevBP.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\obj\Debug\net8.0\ApiDevBP.Contract.dll
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\obj\Debug\net8.0\refint\ApiDevBP.Contract.dll
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\obj\Debug\net8.0\ApiDevBP.Contract.pdb
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\obj\Debug\net8.0\ref\ApiDevBP.Contract.dll
+C:\Users\Cesar\Documents\Personal Projects\ApiDevBP\ApiDevBP.Contract\bin\Debug\net8.0\NLog.config
