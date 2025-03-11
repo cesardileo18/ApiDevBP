@@ -43,11 +43,11 @@ builder.Services.AddSwaggerGen(options =>
     options.SwaggerDoc("v1", new OpenApiInfo
     {
         Version = "v1",
-        Title = "IQExportTableData API",
-        Description = "IQExportTableData API",
+        Title = "SQL Lite API",
+        Description = "SQL Lite API",
         Contact = new OpenApiContact
         {
-            Name = "DataIQ",
+            Name = "Cesar Di Leonardo",
             Email = string.Empty,
             Url = new Uri("https://portfolio-cesar.web.app"),
         }
