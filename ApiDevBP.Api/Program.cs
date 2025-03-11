@@ -49,7 +49,7 @@ builder.Services.AddSwaggerGen(options =>
         {
             Name = "DataIQ",
             Email = string.Empty,
-            Url = new Uri("https://dataiq.com.ar/"),
+            Url = new Uri("https://portfolio-cesar.web.app"),
         }
     });
     var xmlFilename = $"./Documentation.xml";
@@ -70,7 +70,7 @@ builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IUserRepository, UserRepositoryImplementation>();
 builder.Services.Configure<DataBaseConection>(builder.Configuration.GetSection("ConnectionStrings"));
 
-// Construye la aplicación
+// Construye la aplicaciÃ³n
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -78,7 +78,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "IQExportTableData API v1");
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "SQL Lite API v1");
     });
 }
 
